@@ -1,4 +1,5 @@
 # Guacamole recipe
 
 Used in teaching Git.
-Here are addition 1.
+Here is addition 1.
+Here is addition 2.
